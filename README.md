@@ -1,7 +1,5 @@
 ### Description
 
-set `webdriver.chrome.driver` property to chromedriver which you could download from https://chromedriver.chromium.org/downloads
-
 Update variables in the class with workflow info we need.
 
 Update `startTime` and `startTime` dates.
